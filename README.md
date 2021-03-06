@@ -10,6 +10,7 @@ PHP => ext Curl, FTP, SSH2 activées
 ## Setup
 
 - install Docker https://www.docker.com/
+- git clone https://github.com/NathanToupart/Docker_XAMP_Development
 - `docker-compose build`
 - `docker-compose up -d`
 
